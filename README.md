@@ -1,6 +1,6 @@
 # Web Development Technologies Overview
 
-This repository demonstrates the basic usage and integration of four fundamental web technologies: PHP, HTML, CSS, and JavaScript. Below is a quick overview of each technology, along with their respective logos.
+This profile demonstrates the basic usage and integration of four fundamental web technologies: PHP, HTML, CSS, and JavaScript. Below is a quick overview of each technology, along with their respective logos.
 
 ## Technologies Included
 
@@ -29,7 +29,7 @@ JavaScript is a dynamic programming language used to create interactive and resp
 - **Basic Syntax**: JavaScript code is written in statements and functions. For example, `alert("Hello, World!");` shows a pop-up message in the browser.
 
 ### PHP - Hypertext Preprocessor
-![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg)
+![PHP Logo]([https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg](https://www.php.net/images/logos/php-logo-bigger.png))
 
 PHP is a server-side scripting language used to build dynamic web pages. It allows you to interact with databases, process forms, and manage sessions, making it essential for building interactive web applications.
 
