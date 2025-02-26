@@ -12,5 +12,5 @@ This profile demonstrates the basic usage and integration of four fundamental we
 ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
 ### PHP - Hypertext Preprocessor
-![PHP Logo]([https://upload.wikimedia.org/wikipedia/commons/2/27/PHP_logo.svg](https://www.php.net/images/logos/php-logo-bigger.png](https://www.php.net/images/logos/php-logo-bigger.png))
+![PHP Logo](https://www.php.net/images/logos/php-logo-bigger.png)
 
