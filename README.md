@@ -1,6 +1,4 @@
-# Web Development Technologies Overview
-
-This profile demonstrates the basic usage and integration of four fundamental web technologies: PHP, HTML, CSS, and JavaScript. Below is a quick overview of each technology, along with their respective logos.
+Hello, I am Ed Josue Posa. I am an aspiring Computer Science student that aims to be in the world of programming.
 
 ## Technologies Included
 ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/HTML5_logo_2014.svg/1280px-HTML5_logo_2014.svg.png)
