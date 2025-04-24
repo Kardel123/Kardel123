@@ -36,13 +36,6 @@ I drive a Hyundai Accent 2017 - Because developers need reliable wheels too!
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Favorite IDE
-<div align="center">
-  <a href="https://cursor.sh">
-    <img src="http://www.w3.org/2000/svg" width="300" alt="Cursor - The AI-first Code Editor">
-  </a>
-  <p><i>My go-to IDE powered by AI 🤖✨</i></p>
-</div>
 
 ## Currently Learning 📚
 - Advanced Laravel Development
@@ -55,7 +48,7 @@ I drive a Hyundai Accent 2017 - Because developers need reliable wheels too!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kardel123&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kardel123&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Kardel123&theme=radical" alt="GitHub Streak">
 </div>
 
 ## Let's Connect! 🤝
