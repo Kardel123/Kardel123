@@ -76,4 +76,4 @@ I drive a Hyundai Accent 2017 - Because developers need reliable wheels too!
   <i>🚧 Some areas of my profile are under construction as I continue to grow and learn! 🚧</i>
 </div>
 
-⭐️ From [Ed Josue Posa](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Ed Josue Posa](https://github.com/Kardel123)
