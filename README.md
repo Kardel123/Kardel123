@@ -1,7 +1,7 @@
 # Hi there, I'm Ed Josue Posa! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Front+End+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## About Me 👨‍💻
@@ -48,7 +48,7 @@ I drive a Hyundai Accent 2017 - Because developers need reliable wheels too!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kardel123&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Kardel123&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kardel123&theme=radical" alt="GitHub Streak">
 </div>
 
 ## Let's Connect! 🤝
