@@ -39,7 +39,7 @@ I drive a Hyundai Accent 2017 - Because developers need reliable wheels too!
 ### Favorite IDE
 <div align="center">
   <a href="https://cursor.sh">
-    <img src="https://cursor.sh/brand/logo-dark.svg" width="300" alt="Cursor - The AI-first Code Editor">
+    <img src="http://www.w3.org/2000/svg" width="300" alt="Cursor - The AI-first Code Editor">
   </a>
   <p><i>My go-to IDE powered by AI 🤖✨</i></p>
 </div>
