@@ -48,7 +48,6 @@ I drive a Hyundai Accent 2017 - Because developers need reliable wheels too!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kardel123&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kardel123&theme=radical" alt="GitHub Streak">
 </div>
 
 ## Let's Connect! 🤝
